@@ -7,5 +7,5 @@ A Laravel package for generating and validating secure signatures using timestam
 You can install the package via Composer:
 
 ```bash
-composer require meklad/signature
+composer require meklad/signature:dev-main
 ```
