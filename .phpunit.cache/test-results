@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Feature\\SignatureEngineTest::testGenerateSignature":0.002,"Tests\\Feature\\SignatureEngineTest::testValidateSignature":0,"Tests\\Feature\\SignatureEngineTest::testValidateInvalidSignature":0}}

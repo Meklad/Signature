@@ -1,0 +1,23 @@
+{
+    "name": "meklad/signature",
+    "description": "A Laravel package for generating and validating secure signatures using timestamps, app keys, and app secrets.",
+    "type": "library",
+    "version": "1.0.0",
+    "require-dev": {
+        "symfony/var-dumper": "7.3.x-dev",
+        "phpunit/phpunit": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Meklad\\Signature\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Meklad",
+            "email": "ahmed.meklad.news@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
